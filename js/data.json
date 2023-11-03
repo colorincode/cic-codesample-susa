@@ -1,0 +1,646 @@
+[{
+	"images": [
+		"./assets/manifest.jpg",
+		"./assets/clouds.png",
+		"./assets/background.jpg",
+		"./assets/team/chad_byers.jpg",
+		"./assets/team/leo_polovets.jpg",
+		"./assets/team/seth_berman.jpg",
+		"./assets/icons/icon-defensible.svg",
+		"./assets/icons/icon-high-bandwidth.svg",
+		"./assets/icons/icon-self-aware.svg",
+		"./assets/icons/icon-strategic.svg",
+		"./assets/icons/icon-supportive.svg",
+		"./assets/icons/icon-technical.svg",
+		"./assets/featured/feat-logo-andela.png",
+		"./assets/featured/feat-logo-flexport.png",
+		"./assets/featured/feat-logo-lendup.png",
+		"./assets/featured/feat-logo-robinhood.png"
+	],
+	"intro" : {
+		"title": "we are susa ventures.",
+		"desc": "a growing family of dreamers and builders."
+	},
+	"logoGallery": [
+		"./assets/featured/feat-logo-andela.png",
+		"./assets/featured/feat-logo-flexport.png",
+		"./assets/featured/feat-logo-lendup.png",
+		"./assets/featured/feat-logo-robinhood.png"
+	],
+	"featured": [
+		{
+			"name": "Andela.",
+			"quote": "Andela enables global companies to extend their engineering teams with world-class, Africa-based developers. The idea got us excited, but it was the team that got us over the line; we couldn’t have picked a better team to execute on this vision.",
+			"author": "Chad Byers, Partner, Susa Ventures"
+		}, {
+			"name": "Flexport.",
+			"quote": "Flexport is bringing modern technology to freight forwarding and customs brokerage. Entrepreneurs like Ryan don’t come along very often, so when you see one, you get on board.",
+			"author": "Seth Berman, Partner, Susa Ventures"
+		}, {
+			"name": "LendUp.",
+			"quote": "LendUp’s mission is to expand access to credit and lower the cost of borrowing for the millions of Americans that traditional banks are unable or unwilling to serve. They are doing it in an entirely new way - being the first to use a full-stack technology approach.",
+			"author": "Leo Polovets, Partner, Susa Ventures"
+		}, {
+			"name": "Expanse",
+			"quote": "Expanse provides a global, comprehensive, continuously updated view of all Internet-connected assets that belong to an organization.",
+			"author": "Seth Berman, Partner, Susa Ventures"
+		}, {
+			"name": "Robinhood.",
+			"quote": "Robinhood is reimagining financial products in a mobile world, starting with brokerage, and is quickly becoming the portal by which an entire generation learns about investing. Vlad and Baiju had a vision to replace salespeople with engineers and product people, enabling much lower overhead and subsequently introduced a new paradigm of sustainable free trading.",
+			"author": "Chad Byers, Partner, Susa Ventures"
+		}
+	],
+	"thesis": {
+		"chapters": [
+			{
+				"title": "Our belief.",
+				"bullets": [
+					{
+						"copy": [
+							"We believe that entrepreneurs are the lifeblood of progress, and we exist to help them realize their visions for a better world. "
+						]
+					}, {
+						"headline": "our approach ",
+						"copy": [
+							"In all we do, we leverage the Susa Family, a deeply embedded community of founders, investors, partners & advisors. We focus on building better ways for everyone in the family to connect, share and learn from each other."
+						]
+					}, {
+						"headline": "what we invest in",
+						"copy": [
+							"We invest in businesses with strong compounding moats, such as proprietary data, economies of scale and/or network effects.  "
+						]
+					}
+
+				]
+			}, {
+				"title": "The Susa experience.",
+				"bullets": [
+					{
+						"copy": [
+							"At Susa, we strive to be the most accessible and supportive early-stage investor. We love brainstorming, strategizing and rolling up our sleeves to help with the tactical details. Whether it’s Leo beta testing your API, Chad providing feedback on a product feature or Seth helping with customer acquisition, no request is too big or small, and we will do what we can to help. We want to be the first call when you need help. We pride ourselves on providing meaningful support to our portfolio companies and founders. We’ve honed these offerings into four areas:  "
+						],
+						"quote": "Susa has been amazing. Each partner brings their unique domain expertise to the table.",
+						"quoteAuthor": "Vlad and Baiju, Co-founders, Robinhood"
+					},{
+						"headline": "leveraging our network to build community",
+						"copy": [
+							"As a part of Susa Ventures, founders have access to our broad network to get help with anything they might need. We actively work to connect founders to their peers and we host a series of dinners, gatherings and our annual Mountain Tech Summit in Colorado. These events help founders connect with people who will help them take their companies to the next level."
+						],
+						"quote": "Susa Ventures has been an extension of my founding team. They introduced some of Flexport’s most important early customers, followed on in every financing round. Susa has been hands-down one of Flexport's most engaged, connected, and helpful investors.",
+						"quoteAuthor": "Ryan Petersen, Founder and CEO of Flexport "
+					}, {
+						"headline": "helping founders tell their stories",
+						"copy": [
+							"At the heart of every startup is a compelling story. Storytelling is a critical skill for founders, whether they’re fundraising, closing customers, pitching press or attracting top talent to join their teams. We work with founders to develop and amplify their brand voice. "
+						],
+						"quote": "From thinking through our storytelling and refining our deck, to introducing us to Series A funds, their team truly rolled up their sleeves and helped spearhead the process. We feel lucky to partner with Susa on this journey and look forward to years of working together.  ",
+						"quoteAuthor": "Sean Henry, Cofounder and CEO of Stord "
+					}, {
+						"headline": "focusing on founder wellness",
+						"copy": [ 
+							"We know how hard founders have to hustle to get companies off the ground, and we believe in the correlation between founders’ health and the long term success of their companies. We support our founders in prioritizing their health and leadership development so they and their companies can thrive."
+						],
+						"quote": "Being a founder is hard. Being a single founder is insane. Susa helps to guide and grow not just the business, but also the founder behind the business. They are there when you need them, and they step back when you don’t.",
+						"quoteAuthor": "Rasty Turek, Founder and CEO of Pex "
+					}, {
+						"headline": "investing in human capital",
+						"copy": [ 
+							"Building the right team in the early stages is one of the biggest challenges founders face. We leverage our network to help connect them with and close the best talent. "
+						],
+						"quote": "Susa has built an incredible, tight-knit community of top performers around them. They recently helped us hire our Director of Marketing, a key hire that will help us scale our business to the next level.",
+						"quoteAuthor": "Nitesh Gandhi, Founder and CEO, Locale "
+					}
+
+				]
+			}
+		],
+		"manifest": {
+			"copy": "Susa Ventures is named after a Mountain Gorilla family in Rwanda called the Susa Family. These gorillas are extraordinary (and awesome!), as they were one of the first species on earth to organize into strong family groups. This idea of bringing together a unique group of individuals to form a strong family and community was the genesis behind the fund. Come join the family!"
+		}
+	},
+	"portfolioFilter": [
+		{
+			"label": "investments",
+			"tag": "all"
+		}
+	],
+	"portfolio": [
+		{
+			"name": "Andela",
+			"desc": "Andela extends engineering teams with world-class software developers from the African continent, by identifying the most talented developers, shaping them into technical leaders, and placing them as full-time distributed team members.",
+			"url": "https://www.andela.com/",
+			"logo": "./assets/portfolio/logo-andela.svg",
+			"tag": "fundOne"
+		},{
+			"name": "Aquera",
+			"desc": "Aquera provides a zero-programming 'instant-on' integration platform that helps businesses integrate their platforms with their entire IT infrastructure.",
+			"url": "https://www.aquera.com/",
+			"logo": "./assets/portfolio/logo-aquera.svg",
+			"tag": "fundTwo"
+		},{
+			"name": "Avro",
+			"desc": "Avro Life Science is developing skin patches for generic drug delivery, focusing on therapeutics for children and the elderly.",
+			"url": "https://www.avrolifesci.com/",
+			"logo": "./assets/portfolio/avro.png",
+			"tag": "fundTwo"
+		},{
+			"name": "Bright",
+			"desc": "Bright helps families in Mexico finance residential installations of solar panels, which produce energy more cheaply and reliably than local power grids.",
+			"url": "https://www.thinkbright.mx/?lang=en",
+			"logo": "./assets/portfolio/logo-bright.svg",
+			"tag": "fundOne"
+		},{
+			"name": "Casetext",
+			"desc": "Casetext allows lawyers to research and annotate cases, creating a high quality, low-cost legal knowledge base.",
+			"url": "https://casetext.com/",
+			"logo": "./assets/portfolio/logo-casetext.svg",
+			"tag": "fundTwo"
+		},{
+			"name": "Chatdesk",
+			"desc": "Chatdesk helps companies use messaging and analytics to deliver sales and improve customer care.",
+			"url": "https://chatdesk.com/",
+			"logo": "./assets/portfolio/chatdesk.png",
+			"tag": "fundTwo"
+		},{
+			"name": "Clutch",
+			"desc": "Clutch is a network that provides a simple way to share Xbox, PlayStation, Mobile, and PC recordings with the broader gaming community.",
+			"url": "https://clutch.win/",
+			"logo": "./assets/portfolio/clutch.png",
+			"tag": "fundOne"
+		},{
+			"name": "Cortex Health",
+			"desc": "Cortex is a post-acute software platform for identifying new care needs and improving health outcomes.",
+			"url": "https://www.cortexhc.com/",
+			"logo": "./assets/portfolio/cortex.png",
+			"tag": "fundOne"
+		},{
+			"name": "CrowdAI",
+			"desc": "CrowdAI combines deep learning and computer vision with human-in-the-loop to automate the discovery of objects at scale.",
+			"url": "https://crowdai.com/",
+			"logo": "./assets/portfolio/logo-crowdai.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Drivezy",
+			"desc": "Drivezy.com is India’s first aggregator service in the business of car rentals. With Drivezy you can hire cars for self drive by the hour, day or week and have them delivered at your doorstep.",
+			"url": "https://drivezy.com/",
+			"logo": "./assets/portfolio/logo-drivezy.svg",
+			"tag": "fundTwo"
+		}, {
+			"name": "Expanse",
+			"desc": "Expanse provides a global, comprehensive, continuously updated view of all Internet-connected assets that belong to an organization.",
+			"url": "https://www.expanse.co/",
+			"logo": "./assets/portfolio/expanse.png",
+			"tag": "fundTwo"
+		}, {
+			"name": "Flexport",
+			"desc": "Flexport is a modern, software-powered freight forwarder that helps companies with global logistics.",
+			"url": "https://www.flexport.com/",
+			"logo": "./assets/portfolio/flexport.png",
+			"tag": "fundTwo"
+		},{
+			"name": "Fuzzbuzz",
+			"desc": "Fuzzbuzz is a platform that continuously tests code for bugs and vulnerabilities with fuzzing, so that companies can leverage Google-calibre testing without a dedicated security or QA team.",
+			"url": "https://fuzzbuzz.io/",
+			"logo": "./assets/portfolio/fuzzbuzz.png",
+			"tag": "fundOne"
+		}, {
+			
+			"name": "Guilded",
+			"desc": "Guilded is a complete esports team management platform that allows esports teams to better recruit, improve and compete in all games on all platforms. ",
+			"url": "https://www.guilded.gg/",
+			"logo": "./assets/portfolio/guilded.png",
+			"tag": "fundOne"
+		},{
+			
+			"name": "Hodinkee",
+			"desc": "Hodiknee is a destination site for high quality wristwatch news and reviews.",
+			"url": "https://www.hodinkee.com/",
+			"logo": "./assets/portfolio/logo-hodinkee.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Humble Dot",
+			"desc": "Humble Dot saves managers time and hassle by keeping their team in sync through status updates, retrospectives, team pulses and 1-on-1 agendas.",
+			"url": "https://humbledot.com/",
+			"logo": "./assets/portfolio/humbledot.png",
+			"tag": "fundOne"
+		}, {
+			"name": "HYAS ",
+			"desc": "HYAS is a cybersecurity company offering real-time remote visibility into network breaches globally. ",
+			"url": "https://hyas.com/",
+			"logo": "./assets/portfolio/hyas.png",
+			"tag": "fundTwo"
+		}, {
+			"name": "Interviewing.io",
+			"desc": "Interviewing.io gives engineers a place to practice 1:1 interviews, and fast tracks top interviewees to interviews at top companies.",
+			"url": "https://www.interviewing.io/",
+			"logo": "./assets/portfolio/logo-interviewing.svg",
+			"tag": "fundTwo"
+		},{
+			"name": "Intricately ",
+			"desc": "Intricately is a tool that monitors cloud technology and provides real-time insights for sales and marketing teams. ",
+			"url": "https://www.intricately.com/",
+			"logo": "./assets/portfolio/intricately.png",
+			"tag": "fundTwo"
+		}, {
+			"name": "LendUp",
+			"desc": "LendUp provides credit products to financially underserved Americans, including short-term loans, installment loans, and credit cards. They also provide free financial education courses and help borrowers improve their credit over time.",
+			"url": "https://www.lendup.com/",
+			"logo": "./assets/portfolio/logo-lendup.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Locale",
+			"desc": "Locale is a hybrid home-hotel concept, offering stylishly furnished, comfortable apartments for short and long-term stays. ",
+			"url": "https://www.staywithlocale.com/",
+			"logo": "./assets/portfolio/locale.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Lyst",
+			"desc": "Lyst is one of the world’s largest fashion marketplaces. They partner directly with brands and multi-brand stores to deliver personalized shopping experiences for consumers.",
+			"url": "https://www.lyst.com/",
+			"logo": "./assets/portfolio/logo-lyst.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Mashgin",
+			"desc": "Mashgin is building self-checkout kiosks that use machine vision to let people check out at cafeterias and convenience stores without the need for a human clerk.",
+			"url": "http://mashgin.com/",
+			"logo": "./assets/portfolio/logo-mashgin.svg",
+			"tag": "fundOne"
+		},{
+			"name": "Merit",
+			"desc": "Merit digitizes your achievements into a single permanent record so that you’ll never lose a trophy, membership card, or certificate ever again.",
+			"url": "https://www.merits.com",
+			"logo": "./assets/portfolio/logo-merit.png",
+			"tag": "fundTwo"
+		}, {
+			"name": "Modsy",
+			"desc": "Modsy allows users to view photorealistic renderings of furniture in their spaces to easily make purchasing decisions by simply taking photos of their rooms and submitting them along with dimensions.",
+			"url": "https://www.modsy.com/",
+			"logo": "./assets/portfolio/logo-modsy.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Mux",
+			"desc": "Mux is a video platform for content producers that offers actionable analytics on video quality and user playback experience.",
+			"url": "http://www.mux.com/",
+			"logo": "./assets/portfolio/logo-mux.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "MycoWorks",
+			"desc": "MycoWorks makes a new kind of leather grown rapidly from fungi in a carbon-negative process.",
+			"url": "https://www.mycoworks.com/",
+			"logo": "./assets/portfolio/myco.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Naborly",
+			"desc": "Naborly offers free tenant screening for landlords by automatically verifying tenant identity, income, employment, credit score and access to background checks. ",
+			"url": "https://naborly.com/",
+			"logo": "./assets/portfolio/naborly.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Namo Media*",
+			"desc": "Namo Media offered an SDK for native mobile advertising. *They were acquired by Twitter in 2014.",
+			"url": "https://twitter.com/",
+			"exited": "./assets/acquired.png",
+			"logo": "./assets/portfolio/logo-nanomedia.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Newfront Insurance ",
+			"desc": "Newfront is a modern commercial insurance brokerage that leverages technology to simplify both the buying process for businesses and the selling process for brokers.",
+			"url": "https://www.newfrontinsurance.com/",
+			"logo": "./assets/portfolio/newfront.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Outlier",
+			"desc": "Outlier is a SaaS tool that helps companies become more data-driven. It analyzes data from existing analytics solutions like Flurry and Mixpanel, and then notifies users about interesting trends and unusual events.",
+			"url": "http://outlier.ai/",
+			"logo": "./assets/portfolio/logo-outlier.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Pachyderm",
+			"desc": "Pachyderm is an open source analytics engine that uses Docker containers for distributed analytics computations.",
+			"url": "http://www.pachyderm.io/",
+			"logo": "./assets/portfolio/logo-pachyderm.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Parachute",
+			"desc": "Parachute makes modern Bedding and Bath essentials for a more comfortable home.",
+			"url": "https://www.parachutehome.com/",
+			"logo": "./assets/portfolio/logo-parachute.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "People Data Labs",
+			"desc": "People Data Labs offers a powerful API to clean and enrich company and people data. This API enables building rich search experiences, automating sign up flows, standardizing person profiles, and much more",
+			"url": "https://www.peopledatalabs.com/",
+			"logo": "./assets/portfolio/logo-peopledatalabs.svg",
+			"tag": "fundTwo"
+		}, {
+			"name": "Percolata",
+			"desc": "Percolata uses sensors to measure foot traffic in retail locations, and intelligently generates dynamic staffing schedules based on predicted customer volume.",
+			"url": "http://www.percolata.com/",
+			"logo": "./assets/portfolio/logo-percolata.svg",
+			"tag": "fundTwo"
+		}, {
+			"name": "Periscope Data",
+			"desc": "Periscope is a tool that help data analysts become more productive. It plugs into external databases and makes it possible to run queries across very large volumes of data very quickly. ",
+			"url": "https://www.periscopedata.com/",
+			"exited": "./assets/acquired.png",
+			"logo": "./assets/portfolio/logo-periscope2.svg",
+			"tag": "fundOne"
+		},{
+			"name": "Persephone Biome",
+			"desc": "Persephone Biome is trying to retune the gut microbiome to help cancer drugs work more effectively.",
+			"url": "https://persephonebiome.com/",
+			"logo": "./assets/portfolio/persephone.png",
+			"tag": "fundOne"
+		},{
+			"name": "Pex",
+			"desc": "Pex delivers analytics and rights management service with simplicity, speed and accuracy, providing transparency to a cloudy digital space.",
+			"url": "https://pex.com/",
+			"logo": "./assets/portfolio/pex.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Plan",
+			"desc": "Plan is a web and mobile app that combines your calendar with your task list in order to help you spend your time more efficiently.",
+			"url": "https://getplan.co/login",
+			"logo": "./assets/portfolio/logo-plan.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "PolicyGenius",
+			"desc": "PolicyGenius makes it easy to shop for all of your insurance needs, starting with life and disability insurance.",
+			"url": "https://www.policygenius.com",
+			"logo": "./assets/portfolio/logo-policy-genius.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Rigetti",
+			"desc": "Rigetti is building the world’s first quantum computer.",
+			"url": "http://rigetti.com/",
+			"logo": "./assets/portfolio/logo-rigetti.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Roam",
+			"desc": "Roam is a multi-platform social channel offering raw, unfiltered video from the best athletes and storytellers of our time, via short-form videos that use existing expedition or travel footage or commissioned assignments. ",
+			"url": "https://roamtv.com/",
+			"logo": "./assets/portfolio/roam.png",
+			"tag": "fundOne"
+		},{
+			"name": "Robin Care",
+			"desc": "Robin Care offers personalized, coordinated, and automated cancer care by anticipating challenges cancer patients will face and ensuring they have the right information, tools and resources where and when they need them.",
+			"url": "https://getrobincare.com/",
+			"logo": "./assets/portfolio/robincare.png",
+			"tag": "fundOne"
+		},{
+			"name": "Robinhood",
+			"desc": "Robinhood is a commission-free mobile-first stock trading app.",
+			"url": "https://robinhood.com/",
+			"logo": "./assets/portfolio/logo-robinhood2.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Rockbot",
+			"desc": "Rockbot is an audio and video entertainment platform for retail locations.",
+			"url": "https://rockbot.com/",
+			"logo": "./assets/portfolio/logo-rockbot.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Runa HR",
+			"desc": "RunaHR is a cloud-based HR software for companies in Latin America, allowing employers to manage payroll, employee management, onboarding, vacation tracking and reporting.",
+			"url": "https://runahr.com/",
+			"logo": "./assets/portfolio/runa.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Scalyr",
+			"desc": "Scalyr is a modern, lightning-fast server log monitoring tool.",
+			"url": "http://www.scalyr.com/",
+			"logo": "./assets/portfolio/logo-scalyr.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Scope AR",
+			"desc": "Scope AR provides augmented reality products for training and remote assistance in industrial settings.",
+			"url": "http://www.scopear.com/",
+			"logo": "./assets/portfolio/logo-scope-ar.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "SimpleLegal",
+			"desc": "SimpleLegal helps corporate general counsel and legal ops teams manage their legal billing.",
+			"url": "https://www.simplelegal.com",
+			"exited": "./assets/acquired.png",
+			"logo": "./assets/portfolio/logo-simple-legal.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Smile Identity",
+			"desc": "Smile Identity uses computer vision, machine learning, human review, and local integrations to provide a complete KYC and user identification solution for mobile-first frontier markets. ",
+			"url": "https://www.smileidentity.com/",
+			"logo": "./assets/portfolio/smile-identity-2.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Spring Discovery",
+			"desc": "Spring Discovery is accelerating the discovery of therapies for aging by targeting the biological processes of aging itself. ",
+			"url": "https://www.springdisc.com/",
+			"logo": "./assets/portfolio/springdiscovery.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Stedi",
+			"desc": "Stedi offers the fastest, easiest way to implement EDI.",
+			"url": "http://www.stedi.com/",
+			"logo": "./assets/portfolio/logo-stedi.svg",
+			"tag": "fundTwo"
+		}, {
+			"name": "Stord",
+			"desc": "Stord gives companies the warehousing and freight coverage, real-time inventory visibility, and high-touch operations support needed to grow, delight customers, out-deliver the competition, and adapt to change.",
+			"url": "https://www.stord.com/",
+			"logo": "./assets/portfolio/stord.png",
+			"tag": "fundTwo"
+		}, {
+			"name": "Sundae",
+			"desc": "Sundae helps homeowners sell dated or damaged homes off-market at the highest off-market price, on their timeline, without any work or worry. ",
+			"url": "https://sundae.com/",
+			"logo": "./assets/portfolio/sundae.png",
+			"tag": "fundTwo"
+		}, {
+			"name": "TigerGraph",
+			"desc": "TigerGraph is a real­-time graph database and analytics technology. It’s used for applications in fraud detection, financial risk analysis, and purchase intent analytics.",
+			"url": "http://www.tigergraph.com/",
+			"logo": "./assets/portfolio/logo-tigergraph.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Tortuga",
+			"desc": "Tortuga AgTech combines technology from robotics, automation, precision data analytics and machine learning to enable advanced growing methods to compete with scale agriculture.",
+			"url": "http://www.tortugaagtech.com/",
+			"logo": "./assets/portfolio/tortuga.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Treasury Prime",
+			"desc": "Treasury Prime builds APIs that help automate operational processes for banks and their corporate customers.",
+			"url": "https://treasuryprime.com/",
+			"logo": "./assets/portfolio/treasuryprime.png",
+			"tag": "fundOne"
+		}, {
+			"name": "TrendMD",
+			"desc": "TrendMD is a research article recommendation service that helps journals increase their readership while helping researchers find the content they need.",
+			"url": "https://www.trendmd.com/",
+			"logo": "./assets/portfolio/logo-trendmd.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Troops",
+			"desc": "Troops is a Slackbot for sales teams. It lets you instantly push and pull CRM data in and out of Slack, turning it into the sales hub for both you and your team.",
+			"url": "https://troops.ai/",
+			"logo": "./assets/portfolio/logo-troops.svg",
+			"tag": "fundTwo"
+		},{
+			"name": "Union Crate",
+			"desc": "Union Crate is a supply chain platform that simplifies demand planning and daily operations for consumer goods companies.",
+			"url": "https://unioncrate.com/",
+			"logo": "./assets/portfolio/unioncrate.png",
+			"tag": "fundOne"
+		}, {
+			"name": "Viz.ai",
+			"desc": "Viz fuses artificial intelligence and medical imaging to help doctors treat patients fast.",
+			"url": "https://www.viz.ai/",
+			"logo": "./assets/portfolio/logo-viz.svg",
+			"tag": "fundTwo"
+		}, {
+			"name": "Vurb",
+			"desc": "Vurb is a search app that lets you easily find, share, and do the best things by connecting community insights, rich content, and useful services -- in one simple app.",
+			"url": "https://www.vurb.com/",
+			"exited": "./assets/acquired.png",
+			"logo": "./assets/portfolio/logo-vurb.svg",
+			"tag": "fundOne"
+		}, {
+			"name": "Whisper.ai",
+			"desc": "Whisper is an artificial intelligence platform that uses deep learning in hearing aids to amplify only the voices and sounds of interest.",
+			"url": "https://whisper.ai/",
+			"logo": "./assets/portfolio/whisper.png",
+			"tag": "fundTwo"
+		},{
+			"name": "WorkRamp",
+			"desc": "WorkRamp helps leaders train the modern team. Their platform generates high-quality data on team development that enables managers to identify skill gaps and make better performance decisions.",
+			"url": "https://www.workramp.com/",
+			"logo": "./assets/portfolio/logo-workramp.svg",
+			"tag": "fundTwo"
+		}
+	],
+	"team": [
+		{
+			"name": "Chad Byers.",
+			"quote": "When I was graduating college, a mentor told me to find a job that didn’t feel like a job. Venture Capital is that job for me. I wake up every day excited to work with amazing founders.", 
+			"desc": "Chad Byers is co-founder & General Partner at Susa Ventures, where he focuses on investments in marketplaces, fintech, and healthcare. Chad led Susa’s investments in Robinhood, Andela, Newfront Insurance and Stord. Raised in Silicon Valley, Chad was exposed to entrepreneurship and venture capital at an early age. He was named to the Forbes 30 Under 30 for VC in 2015. Prior to Susa Ventures, Chad was the senior director of platform at Integrate.com and held various marketing and product roles at Silver Spring Networks, Bloom Energy, and Electronic Arts. Chad chased his love for skiing, mountains, and the outdoors to Boulder, Colorado where he mostly did those things but also received a bachelor’s degree in Environmental Science.",
+			"image": "./assets/team/chad_byers.jpg",
+			"social": [
+				{
+					"label": "twitter",
+					"image": "./assets/social/icon-twitter.svg",
+					"url": "https://twitter.com/chadbyers"
+				}, {
+					"label": "linkedin",
+					"image": "./assets/social/icon-linkedin.svg",
+					"url": "https://www.linkedin.com/in/chadabyers"
+				}
+			]
+		},	{
+			"name": "Leo Polovets.",
+			"quote": "After working at Google and two early-stage startups as a software engineer, I decided to focus on learning about building successful businesses from the VC side. I love working with smart, passionate founders; helping them wherever possible; and sharing lessons and knowledge within the Susa family.", 
+			"desc": "Leo Polovets is co-founder and General Partner at Susa Ventures, where he focuses on enterprise software; developer tools and technical products; and logistics and supply chain. Leo led Susa’s investments in Outlier, Pex, Scalyr, and Stedi. Having been a software engineer for 10+ years, Leo approaches challenges with an engineering mindset and supports portfolio companies in vetting and hiring technical talent. Prior to Susa, Leo was the second engineering hire at Linkedin where he worked on the first versions of products like LinkedIn Jobs and LinkedIn Groups. Leo then worked on payment fraud detection algorithms at Google, and was also an early engineer at Factual, where he built data processing software. Leo received a bachelor’s degree in Engineering and Applied Science (Computer Science) from Caltech.",
+			"image": "./assets/team/leo_polovets.jpg",
+			"social": [
+				{
+					"label": "twitter",
+					"image": "./assets/social/icon-twitter.svg",
+					"url": "https://twitter.com/lpolovets"
+				}, {
+					"label": "linkedin",
+					"image": "./assets/social/icon-linkedin.svg",
+					"url": "https://www.linkedin.com/in/lpolovets"
+				}, {
+					"label": "other",
+					"image": "./assets/social/icon-other.svg",
+					"url": "https://codingvc.com/"
+				}
+			]
+		},	{
+			"name": "Seth Berman.",
+			"quote": "Investing for me has always been about the founders. I feel lucky to have worked with some amazing entrepreneurs; being able to share previous learnings with future founders is what motivates me every day.",
+			"desc": "Seth Berman is co-founder and General Partner at Susa Ventures, where he focuses on investments in frontier tech, logistics, marketplaces & consumer. Seth led Susa’s investments in Flexport, Pericope Data and Expanse. Prior to Susa, Seth was an active angel investor. He has invested in 100+ seed stage companies in total, and his portfolio includes Nest, Optimizely, Wish, Omio and Docker. He also served as the VP of Strategic Marketing for The Richemont Group, a publicly traded company (CFR:VX) which owns brands and e-commerce sites Cartier, Net-A-Porter.com, Mr. Porter, Montblanc, and Chloe. Seth graduated from the University of Colorado Boulder with a bachelor’s degrees in Business and Finance.",
+			"image": "./assets/team/seth_berman.jpg",
+			"social": [
+				{
+					"label": "twitter",
+					"image": "./assets/social/icon-twitter.svg",
+					"url": "https://twitter.com/sethgb"
+				}, {
+					"label": "linkedin",
+					"image": "./assets/social/icon-linkedin.svg",
+					"url": "https://www.linkedin.com/in/seth-berman-31a6491"
+				}
+			]
+		},	{
+			"name": "Natalie Arora.",
+			"quote": "Operating in sales, business development, and investor relations roles at three startups offered me the full life cycle experience— from early stage through strategic acquisition, to a hyper growth Series A-D, to a full wind down. I’ve loved building companies alongside passionate founders, and I’m grateful to now have the opportunity to do that at Susa.",
+			"desc": "Natalie joined Susa Ventures in January 2018 as Head of Operations. She focuses on designing our pre- and post-investment processes, growing the team, building out our platform to support founders, supporting fundraising, and bringing together the Susa family -- including founders, LPs, investors and operators. As Susa’s resident food expert, she also helps us evaluate investments in food & agriculture. Prior to joining Susa, Natalie was at Ecoscraps (acquired), Hampton Creek (now JUST) and Juicero (RIP). She grew up in the rural Midwest before heading west on a scholarship to Arizona State University, where she graduated with a BA in sustainability, with honors.",
+			"image": "./assets/team/natalie_fleming.jpg",
+			"social": [
+					{
+						"label": "twitter",
+						"image": "./assets/social/icon-twitter.svg",
+						"url": "https://twitter.com/NatalieArora"
+					}, {
+						"label": "linkedin",
+						"image": "./assets/social/icon-linkedin.svg",
+						"url": "https://www.linkedin.com/in/nataliearora/"
+					}
+				]
+		},	{
+			"name": "Alex Czarnecki.",
+			"quote": "After leaving Uber, I was looking for exposure to investing and a supportive environment to explore starting my own business. Susa was the ideal match -- tight-knit, founder-friendly, diverse perspectives and super well-networked in the tech community.",
+			"desc": "Alex joined Susa Ventures in March 2019 as an Entrepreneur-in-Residence. In his role as EIR, he sources new investments, works with our existing portfolio companies, and is evaluating opportunities to start his own business. Prior to Susa, Alex spent 4.5 years at Uber, where he held leadership roles in expansion and operations. He launched Uber’s ridesharing business in several countries, was the first person working on Uber Eats in Europe, and managed the operations of a $1B+ ARR business segment. Alex is a proud Bay Area native, Dartmouth grad, aspiring surfer, and certified yogi.",
+			"image": "./assets/team/alex_czarnecki.jpg",
+			"social": [
+				{
+					"label": "twitter",
+					"image": "./assets/social/icon-twitter.svg",
+					"url": "https://twitter.com/alexczarnecki?lang=en"
+				}, {
+					"label": "linkedin",
+					"image": "./assets/social/icon-linkedin.svg",
+					"url": "https://www.linkedin.com/in/alex-czarnecki-49955a5/"
+					}
+				]
+		},	{
+			"name": "Rachel Coffman.",
+			"quote": "As an administrative professional, I place a high value not only on the tone a company sets for itself but the value it places on its people; that was key in choosing to join Susa. I am thrilled to be a part of such a communicative and collaborative environment, one that acknowledges the humanity within the individual and understands that we gain strength through connection and collective intelligence. There is no team I'd rather be a part of than Team Susa.",
+			"desc": "Rachel joined Susa Ventures in April of 2019 as Executive Assistant & Office Manager in our San Francisco headquarters. Prior to joining Susa, she was an Executive Assistant at Gryphon Investors, where she supported the COO through facilitating fundraising and investor relations efforts. Previously, Rachel was at fund placement agent Probitas Partners, where she supported the COO and served as Junior Accountant. Rachel holds an accounting certification through UC Davis. In her spare time, she enjoys hiking, backpacking, gardening, and all things outdoors. ",
+			"image": "./assets/team/rachel_coffman.jpg",
+			"social": [
+				{
+					"label": "linkedin",
+					"image": "./assets/social/icon-linkedin.svg",
+					"url": "https://www.linkedin.com/in/rachel-shipp-coffman-1a917592"
+				}
+			]
+		}
+	],
+	"contact": {
+		"title": "A little more about us.",
+		"questions": [
+			{
+				"headline": "where is susa?",
+				"copy": "Our headquarters is in San Francisco, CA."
+			}, {
+				"headline": "how long has susa been around?",
+				"copy": "Susa Ventures was founded in the Summer of 2013 with our debut $25M early-stage fund, followed by the launch of our $50M fund in 2016. We are now investing out of our third early-stage fund, a $90M fund which launched in Spring of 2019. "
+			}, {
+				"headline": "how do I get in touch?",
+				"copy": "You can email pitches@susaventures.com, but we strongly prefer that you get in touch via a shared connection."
+			}
+		],
+		"social": [
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/SusaVentures"
+			}, {
+				"label": "medium",
+				"url": "https://medium.com/@SusaVentures/"
+			}, {
+				"label": "facebook",
+				"url": "https://www.facebook.com/SusaVentures/"
+			}
+		]
+	}
+}]
